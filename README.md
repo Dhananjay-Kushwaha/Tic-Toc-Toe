@@ -85,8 +85,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 If you have any questions or feedback, feel free to reach out:
 
-- GitHub: [yourusername](https://github.com/Dhananjay-Kushwaha)
-- LinkedIn: [yourLinkedIn](https://www.linkedin.com/in/dhananjaykushwaha)
+- GitHub: [Dhananjay-Kushwaha](https://github.com/Dhananjay-Kushwaha)
+- LinkedIn: [Dhananjay-Kushwaha](https://www.linkedin.com/in/dhananjaykushwaha)
 
 ```
 
