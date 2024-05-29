@@ -1,6 +1,3 @@
-Sure, here's the updated README.md file with the LinkedIn link added after the GitHub contact information:
-
-```markdown
 # Tic-Tac-Toe Game
 
 A simple console-based Tic-Tac-Toe game implemented in C++. This project showcases basic game development, logic implementation, and use of standard C++ libraries. Ideal for beginners to understand the fundamentals of game development in C++.
@@ -84,10 +81,6 @@ Key functions include:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or additions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
