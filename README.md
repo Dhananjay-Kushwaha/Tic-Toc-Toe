@@ -13,7 +13,6 @@ A simple console-based Tic-Tac-Toe game implemented in C++. This project showcas
 - [Code Explanation](#code-explanation)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
